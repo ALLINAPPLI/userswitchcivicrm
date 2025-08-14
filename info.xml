@@ -22,7 +22,7 @@
   </compatibility>
   <comments>this </comments>
   <classloader>
-    <psr4 prefix='Civi\" path="Civi'/>
+    <psr4 prefix="Civi\" path="Civi"/>
     <psr0 prefix="CRM_" path="."/>
   </classloader>
   <civix>
