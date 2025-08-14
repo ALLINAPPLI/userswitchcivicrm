@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<extension key="userswitchcrm" type="module">
-  <file>userswitchcrm</file>
-  <name>userswitchcrm</name>
-  <description>userswitchcrm</description>
+<extension key="userswitchcivicrm" type="module">
+  <file>userswitchcivicrm</file>
+  <name>userswitchcivicrm</name>
+  <description>userswitchcivicrm</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Quelqu'un d'All in appli ?</author>
@@ -26,8 +26,8 @@
     <psr0 prefix="CRM_" path="."/>
   </classloader>
   <civix>
-    <namespace>CRM/Userswitchcrm</namespace>
-    <angularModule>crmUserswitchcrm</angularModule>
+    <namespace>CRM/userswitchcivicrm</namespace>
+    <angularModule>crmuserswitchcivicrm</angularModule>
     <format>23.02.1</format>
   </civix>
 </extension>
