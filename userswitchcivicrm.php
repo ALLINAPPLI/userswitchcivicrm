@@ -1,6 +1,6 @@
 <?php
 
-require_once 'userswitchcrm.civix.php';
+require_once 'userswitchcivicrm.civix.php';
 // phpcs:disable
 use CRM_Userswitchcrm_ExtensionUtil as E;
 // phpcs:enable
