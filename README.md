@@ -1,9 +1,10 @@
 # userswitchcrm
 
 ![Screenshot](/images/screenshot.png)
+Allows to connect as a contact if it has a user account on the CMS. Works on WordPress, not tested on Drupal / Joomla / Backdrop.
+Really useful when testing behaviour between user roles and permissions or supporting clients.
 
-(*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
-
+For Standalone you'll a specific extension available here https://lab.civicrm.org/extensions/switchuser
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
 ## Requirements
