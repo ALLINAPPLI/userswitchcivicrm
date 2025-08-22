@@ -12,6 +12,7 @@ The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
 * PHP v7.2+
 * CiviCRM (*FIXME: Version number*)
+* [User switching](https://wordpress.org/plugins/user-switching/) extension for WordPress 
 
 ## Installation (Web UI)
 
