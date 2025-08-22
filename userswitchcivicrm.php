@@ -56,15 +56,3 @@ function userswitchcrm_civicrm_summaryActions(&$actions, $contactID) {
   }
 
 }
-
-//function userswitchcrm_civicrm_navigationMenu(&$menu) {
-//  _userswitchcrm_civix_insert_navigation_menu($menu, 'Mailings', array(
-//    'label' => E::ts('New subliminal message'),
-//    'name' => 'mailing_subliminal_message',
-//    'url' => 'civicrm/mailing/subliminal',
-//    'permission' => 'access CiviMail',
-//    'operator' => 'OR',
-//    'separator' => 0,
-//  ));
-//  _userswitchcrm_civix_navigationMenu($menu);
-//}
