@@ -1,7 +1,8 @@
 # userswitchcrm
 
-![Screenshot](/images/screenshot.png)
-Allows to connect as a contact if it has a user account on the CMS. Works on WordPress, not tested on Drupal / Joomla / Backdrop.
+<img width="506" height="429" alt="image" src="https://github.com/user-attachments/assets/61e9a42a-73c8-41d7-8560-aaad4480736b" />
+
+Allows to connect as a contact from CiviCRM contact page and action menu if it has a user account on the CMS. Works on WordPress, not tested on Drupal / Joomla / Backdrop.
 Really useful when testing behaviour between user roles and permissions or supporting clients.
 
 For Standalone you'll a specific extension available here https://lab.civicrm.org/extensions/switchuser
@@ -23,7 +24,7 @@ install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
 cd <extension-dir>
-cv dl userswitchcrm@https://github.com/FIXME/userswitchcrm/archive/master.zip
+cv dl userswitchcrm@https://github.com/ALLINAPPLI/userswitchcrm/archive/master.zip
 ```
 
 ## Installation (CLI, Git)
@@ -32,7 +33,7 @@ Sysadmins and developers may clone the [Git](https://en.wikipedia.org/wiki/Git) 
 install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
-git clone https://github.com/FIXME/userswitchcrm.git
+git clone https://github.com/ALLINAPPLI/userswitchcrm.git
 cv en userswitchcrm
 ```
 
