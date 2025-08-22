@@ -45,7 +45,7 @@ function userswitchcrm_civicrm_summaryActions(&$actions, $contactID) {
       $user = get_user_by('id', $ufID);
       $url = user_switching::switch_to_url($user);
       $actions['otherActions']['switch'] = array(
-        'title' => '<i class="crm-i fa-address-book-o"></i>&nbsp;' . E::ts('Se connecter en tant que'),
+        'title' => '<i class="crm-i fa-address-book-o"></i>&nbsp;' . E::ts('Connect as user'),
         'weight' => 999,
         'ref' => 'switch',
         'key' => 'switch',
